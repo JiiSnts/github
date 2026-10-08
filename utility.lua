@@ -7,7 +7,7 @@
         AutoNeon = {
             Enabled = true, -- Start auto neon fusing on load
             MakeMega = true, -- Make mega neons instead of regular neons
-            SelectedPets = {"jumpscare"}, -- Specific pet IDs to fuse e.g. {"dog", "cat"}
+            SelectedPets = {"neon jumpscare"}, -- Specific pet IDs to fuse e.g. {"dog", "cat"}
         },
         AutoTrade = {
             Enabled = true, -- Start auto trading on load
