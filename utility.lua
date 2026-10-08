@@ -5,9 +5,9 @@
             SelectedPets = {}, -- Specific pet IDs to level e.g. {"dog", "cat"}
         },
         AutoNeon = {
-            Enabled = false, -- Start auto neon fusing on load
+            Enabled = true, -- Start auto neon fusing on load
             MakeMega = true, -- Make mega neons instead of regular neons
-            SelectedPets = {}, -- Specific pet IDs to fuse e.g. {"dog", "cat"}
+            SelectedPets = {"jumpscare"}, -- Specific pet IDs to fuse e.g. {"dog", "cat"}
         },
         AutoTrade = {
             Enabled = true, -- Start auto trading on load
